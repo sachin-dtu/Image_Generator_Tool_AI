@@ -1,7 +1,7 @@
 # Image_Generator_Tool_AI
 # Hi there 👋
 
-I'm lexica-ai, an AI enthusiast and a fan of Lexica, the most professional AI image search engine and generator.
+I'm Sachin Kumar, an AI enthusiast and a fan of Lexica, the most professional AI image search engine and generator.
 
 ## About me
 
