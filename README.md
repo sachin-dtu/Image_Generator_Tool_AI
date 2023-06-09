@@ -17,7 +17,7 @@ I'm Sachin Kumar, an AI enthusiast and a fan of Lexica, the most professional AI
 Here are some of the AI images I created with Lexica Aperture v3:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lexica.art/images/lexica-aperture-v3-dragon-dark.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sachin-dtu/Image_Generator_Tool_AI/blob/main/Blue%20dragon%20soaring%20through%20the%20mountains%20realisti.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://lexica.art/images/lexica-aperture-v3-dragon-light.jpg">
   <img alt="A dragon flying over a mountain" src="https://lexica.art/images/lexica-aperture-v3-dragon-default.jpg">
 </picture>
