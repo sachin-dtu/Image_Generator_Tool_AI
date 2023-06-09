@@ -23,13 +23,13 @@ Here are some of the AI images I created with Lexica Aperture v3:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lexica.art/images/lexica-aperture-v3-city-dark.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sachin-dtu/Image_Generator_Tool_AI/blob/main/dragon%20fly%20on%20the%20sea.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://lexica.art/images/lexica-aperture-v3-city-light.jpg">
   <img alt="A futuristic city at night" src="https://lexica.art/images/lexica-aperture-v3-city-default.jpg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lexica.art/images/lexica-aperture-v3-flower-dark.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sachin-dtu/Image_Generator_Tool_AI/blob/main/league%20of%20legends%20atmosphere%20art%20style.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://lexica.art/images/lexica-aperture-v3-flower-light.jpg">
   <img alt="A colorful flower" src="https://lexica.art/images/lexica-aperture-v3-flower-default.jpg">
 </picture>
